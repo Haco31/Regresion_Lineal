@@ -65,6 +65,6 @@ pip install numpy pandas matplotlib scikit-learn
 
 ---
 #🤖 Próximos pasos
--✔️ Explorar otros algoritmos como regresión polinómica y SVM
--✔️ Aplicar modelos a datasets reales (Iris, Titanic, MNIST, etc.)
--✔️ Implementar validación cruzada y técnicas de mejora de modelos
+- ✔️ Explorar otros algoritmos como regresión polinómica y SVM
+- ✔️ Aplicar modelos a datasets reales (Iris, Titanic, MNIST, etc.)
+- ✔️ Implementar validación cruzada y técnicas de mejora de modelos
