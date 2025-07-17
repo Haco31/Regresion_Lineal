@@ -61,3 +61,10 @@ Antes de ejecutar los notebooks, asegúrate de tener instaladas las siguientes d
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn
+```
+
+---
+#🤖 Próximos pasos
+-✔️ Explorar otros algoritmos como regresión polinómica y SVM
+-✔️ Aplicar modelos a datasets reales (Iris, Titanic, MNIST, etc.)
+-✔️ Implementar validación cruzada y técnicas de mejora de modelos
